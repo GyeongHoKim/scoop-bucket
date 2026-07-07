@@ -1,12 +1,12 @@
 {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/GyeongHoKim/naeryeo/releases/download/v0.1.3/naeryeo_0.1.3_windows_amd64.zip",
+            "url": "https://github.com/GyeongHoKim/naeryeo/releases/download/v0.1.4/naeryeo_0.1.4_windows_amd64.zip",
             "bin": [
                 "naeryeo.exe"
             ],
-            "hash": "4cdafd1017c09764e4ec976ebdfdf21bd4ee4d53a8c57a552f823d4a8d83ca90"
+            "hash": "282ebb912b755996d5f80ae336665e88910be2568fcf1fa529328cb5ab10f2e9"
         }
     },
     "homepage": "https://github.com/GyeongHoKim/naeryeo",
